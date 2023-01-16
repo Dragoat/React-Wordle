@@ -14,7 +14,7 @@ Installs all dependencies needed to successfully run app.
 ### `json-server ./data/db.json --port 3001`
 !RUN BEFORE STARTING!
 
-Runs the database needed to get solution words.
+Runs the database needed to get solution words.\
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
 ### `npm start`
