@@ -6,10 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm install !RUN BEFORE STARTING!`
+### `npm install`
+!RUN BEFORE STARTING!\
+
 Installs all dependencies needed to successfully run app.\
 
-### `json-server ./data/db.json --port 3001 !RUN BEFORE STARTING!`
+### `json-server ./data/db.json --port 3001`
+!RUN BEFORE STARTING!\
 
 Runs the database needed to get solution words.\
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
